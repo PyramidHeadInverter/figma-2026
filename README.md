@@ -1,35 +1,37 @@
-# 📃 SoftMaker Office Guide
+# 📃 Figma Guide
 
-[![SoftMaker](https://img.shields.io/badge/SoftMaker-grey?style=for-the-badge)](https://www.softmaker.com)
-[![Office](https://img.shields.io/badge/Office-blue?style=for-the-badge)](https://www.softmaker.com/en/office)
-[![Platform](https://img.shields.io/badge/Platform-grey?style=for-the-badge)](https://www.softmaker.com/en/office)
-[![Windows | macOS | Linux | Android](https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Android-blue?style=for-the-badge)](https://www.softmaker.com/en/office)
+[![Figma](https://img.shields.io/badge/Figma-grey?style=for-the-badge)](https://www.figma.com)
+[![Design](https://img.shields.io/badge/Design-blue?style=for-the-badge)](https://www.figma.com/design)
+[![Platform](https://img.shields.io/badge/Platform-grey?style=for-the-badge)](https://www.figma.com/downloads/)
+[![Windows | macOS | Linux (Web) | iOS | Android](https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux%20(Web)%20%7C%20iOS%20%7C%20Android-blue?style=for-the-badge)](https://www.figma.com/downloads/)
 
-[![License](https://img.shields.io/badge/License-grey?style=for-the-badge)](https://www.softmaker.com/en/shop)
-[![Subscription | One-time purchase](https://img.shields.io/badge/Subscription%20%7C%20One--time%20purchase-orange?style=for-the-badge)](https://www.softmaker.com/en/shop)
+[![License](https://img.shields.io/badge/License-grey?style=for-the-badge)](https://www.figma.com/pricing/)
+[![Free | Subscription](https://img.shields.io/badge/Free%20%7C%20Subscription-orange?style=for-the-badge)](https://www.figma.com/pricing/)
 
-An overview guide to **SoftMaker Office** — a German-made, Microsoft-compatible office suite known for its speed and GDPR-friendly, privacy-focused positioning.
+An overview guide to **Figma** — a browser-based, collaborative interface design and prototyping tool used for UI/UX design, whiteboarding, and real-time team collaboration.
+
+[![Free / SUBSCRIBE OFFICIALLY](https://img.shields.io/badge/Free%20%2F%20SUBSCRIBE%20OFFICIALLY-red?style=for-the-badge)](https://www.figma.com/pricing/)
+[![⬇ Download FREE](https://img.shields.io/badge/⬇%20Download%20FREE-blue?style=for-the-badge)](https://www.figma.com/downloads/)
 
 ---
 
-![SoftMaker Office workspace](your-image-filename-here.png)
+![Figma design workspace](images.jpg)
 
 ---
 
-## 📌 What is SoftMaker Office?
+## 📌 What is Figma?
 
-SoftMaker Office is an office productivity suite developed by SoftMaker Software GmbH, a German company founded in 1987 and based in Nuremberg. It's built for close compatibility with Microsoft Office file formats, is marketed as a GDPR-compliant alternative to Microsoft 365, and is known for launching and running noticeably faster than larger competing suites.
+Figma is a cloud-based design tool developed by Figma, Inc., widely used for interface design, prototyping, and design systems. It runs directly in the browser and also as native desktop and mobile apps, and is known for real-time multiplayer collaboration — multiple people can edit the same file at once, similar to a shared document.
 
 ---
 
 ## 📥 Getting Started
 
-1. Visit the official SoftMaker website to choose your platform (Windows, macOS, Linux, or Android).
-2. Download the installer or package for your operating system.
-3. Run the installer and follow the on-screen setup steps.
-4. Activate your license (subscription or one-time purchase) or start the FreeOffice trial.
-5. Open TextMaker, PlanMaker, or Presentations and start working with your files.
-
+1. Visit the official Figma website and create a free account.
+2. Choose your platform: browser, or a native desktop/mobile app (Windows, macOS, iOS, or Android).
+3. Download and install the app for your operating system, if you prefer it over the browser.
+4. Create a new design file or open an existing team project.
+5. Invite collaborators to co-edit, comment, and prototype in real time.
 
 ---
 
@@ -37,13 +39,14 @@ SoftMaker Office is an office productivity suite developed by SoftMaker Software
 
 | Feature | Description |
 |---|---|
-| **TextMaker** (Word Processor) | Fast, Word-compatible document editor |
-| **PlanMaker** (Spreadsheet) | Excel-compatible spreadsheet app with formulas and charts |
-| **Presentations** | PowerPoint-compatible slide deck creation |
-| **Native Microsoft Format Support** | Reads and writes `.docx`, `.xlsx`, and `.pptx` as native formats |
-| **Cross-platform Availability** | Windows, macOS, Linux, iOS, and Android |
-| **GDPR-focused Data Handling** | Positioned around European data protection standards |
-| **Fast Startup & Performance** | Notably lighter and faster to launch than larger office suites |
+| **Vector Design Tools** | Precision UI/UX design with frames, components, and auto-layout |
+| **Real-time Collaboration** | Multiple users can edit and comment on the same file simultaneously |
+| **Prototyping** | Interactive, clickable prototypes with transitions and animations |
+| **Design Systems & Components** | Reusable components, variants, and shared style libraries |
+| **FigJam Whiteboarding** | Companion tool for brainstorming, diagrams, and workshops |
+| **Plugin & Widget Ecosystem** | Extend functionality with community and official plugins |
+| **Cross-platform Availability** | Web browser, Windows, macOS, iOS, and Android |
+| **Dev Mode** | Inspect specs, assets, and code snippets for handoff to developers |
 
 ---
 
@@ -51,10 +54,13 @@ SoftMaker Office is an office productivity suite developed by SoftMaker Software
 
 | Plan | What's Included |
 |---|---|
-| **SoftMaker Office (Perpetual)** | One-time purchase for a specific major version |
-| **SoftMaker Office NX (Subscription)** | Full suite, always up to date, subscription-based |
-| **SoftMaker FreeOffice** | Free edition with a smaller feature set for personal use |
-| **Business / Volume Licensing** | Discounted per-seat pricing for organizations |
+| **Figma Free (Starter)** | Basic design and prototyping for individuals and small teams |
+| **Figma Professional (Subscription)** | Unlimited files, version history, and team libraries |
+| **Figma Organization** | Centralized design systems and admin controls for larger teams |
+| **Figma Enterprise** | Advanced security, governance, and workflow controls |
 
 ---
 
+
+
+**Keywords:** Figma guide, UI design tool, UX design software, collaborative design platform, prototyping tool, design systems, Figma free plan, Figma desktop app, Figma plugins, FigJam whiteboard, cross-platform design tool
